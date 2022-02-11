@@ -17,5 +17,4 @@ create table if not exists properties
 
 INSERT INTO properties (id, application, profile, label, key, value, default_value, date_created, last_updated)
 VALUES
-    ('010ec074-9650-4de4-bca2-e71c86d65e40', 'client', 'dev', 'teva', 'my.value', 'Hello World', 'Hello World', now(), now()),
-    ('9401f74f-7d8f-4923-84d7-fa5ea21e0ada', 'clientf', 'dev', 'teva', 'my.value', 'Hello World', 'Hello World', now(), now());
+    ('010ec074-9650-4de4-bca2-e71c86d65e40', 'client', 'dev', 'teva', 'my.value', 'Hello World', 'Hello World', now(), now());
